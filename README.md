@@ -1,7 +1,3 @@
 # PROJECT-BALOONS
-1
-<<<<<<< HEAD
-3
-=======
-2
->>>>>>> 2422cee933945a4d191cd31a6863825ea290b67c
+ 
+https://webboroda.github.io/PROJECT-BALOONS/
